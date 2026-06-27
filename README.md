@@ -1,6 +1,9 @@
 # Swiggy-Sales-Analysis-Dashboard
 Swiggy-Sales-Analysis-Dashboard Developed by Microsoft Excel
 
+## Dashboard Preview
+![Dashboard Preview](Png/ee1.png)
+
 ## Overview
 
 This project is an interactive Sales Dashboard created using Microsoft Excel.
