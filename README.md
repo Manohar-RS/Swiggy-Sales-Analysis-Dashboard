@@ -2,7 +2,7 @@
 Swiggy-Sales-Analysis-Dashboard Developed by Microsoft Excel
 
 ## Dashboard Preview
-![Dashboard Preview](Png/ee1.png)
+![Dashboard Preview](Png/e1.png)
 
 ## Overview
 
